@@ -1,2 +1,2 @@
 # SparkUp
-Geometry Dash Level guessing on Discord Taken to the next Level!
+Geometry Dash Level guessing on Discord taken to the next Level!
